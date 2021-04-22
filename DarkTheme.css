@@ -1,0 +1,49 @@
+.myTheme{
+    -fx-background-color: #383838;
+}
+
+.root {
+    -fx-background-color: #383838;
+}
+
+.label {
+    -fx-text-fill: #E8E8E8;
+    -fx-font-family: Consolas;
+}
+
+.text-field{
+    -fx-font-family: Consolas;
+}
+
+.button {
+    -fx-border-color: #008800;
+}
+
+
+.text-area .content{
+    -fx-background-color: #383838;
+}
+
+.text-area{
+    -fx-font-family: Consolas;
+    -fx-font-size: 14;
+    -fx-text-fill: #E8E8E8;
+}
+
+.dialog-pane{
+    -fx-border-color:#383838;
+}
+
+.check-box:selected > .box {
+    -fx-background-color: #00FF00;
+}
+
+.check-box:selected > .box > .mark{
+    -fx-background-color: black;
+}
+
+.tool-bar{
+    -fx-background-color: #383838;
+}
+
+
